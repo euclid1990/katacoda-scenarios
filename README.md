@@ -2,8 +2,6 @@
 
 [![](http://shields.katacoda.com/katacoda/euclid1990/count.svg)](https://www.katacoda.com/euclid1990 "Get your profile on Katacoda.com")
 
-Visit https://www.katacoda.com/euclid1990 to view the profile and interactive scenarios
-
 ### Writing Scenarios
 Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
 
